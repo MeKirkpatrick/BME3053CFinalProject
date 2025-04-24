@@ -47,6 +47,10 @@ INCLUDE LINK TO VIDEO DEMO HERE
 - The models are evaluated based on their accuracy and confusion matrices.
 - The best-performing model is determined by its test accuracy.
 
+## Starter Code Source:
+
+https://www.kaggle.com/code/ranusharma09/starter-indian-liver-patient-records-870937e6-4 
+
 ## Dependencies
 
 The following Python libraries are required to run the notebook:
@@ -62,6 +66,4 @@ Install the dependencies using:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
 
-## Starter Code Source:
 
-https://www.kaggle.com/code/ranusharma09/starter-indian-liver-patient-records-870937e6-4 
